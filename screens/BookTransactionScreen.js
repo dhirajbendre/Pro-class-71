@@ -143,7 +143,6 @@ export default class TransactionScreen extends React.Component {
                 style={{width:200, height: 200}}/>
               <Text style={{textAlign: 'center', fontSize: 30}}>Wily</Text>
             </View>
-            
             <View style={styles.inputView}>
             <TextInput 
               style={styles.inputBox}
